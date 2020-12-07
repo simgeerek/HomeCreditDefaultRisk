@@ -1,4 +1,4 @@
-# HomeCreditDefaultRisk
+# Home Credit Default Risk
 
 - application_{train|test}.csv
 
